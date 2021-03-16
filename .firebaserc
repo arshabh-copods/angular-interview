@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "copods-interview": {
+      "hosting": {
+        "angular": [
+          "copods-interview"
+        ]
+      }
+    }
+  }
+}
